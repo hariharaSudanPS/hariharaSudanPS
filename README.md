@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me haribk380@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm not mid
 
 <!---
 hariharaSudanPS/hariharaSudanPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
